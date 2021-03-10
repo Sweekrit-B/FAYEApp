@@ -1,0 +1,138 @@
+body {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    border-top: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 1px;
+    overflow-x: hidden;
+    background-color: white;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+div {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+table {
+    border: 0px black;
+    margin: 0px;
+}
+
+.navbar {
+    color: rgb(86, 80, 170);
+    font-size: 30px;
+    position: fixed;
+    flex-direction: row;
+    flex-wrap: wrap;
+    z-index: 1;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: white;
+    width: 100%;
+}
+
+
+a:link, a:visited {
+    color: rgb(86, 80, 170);
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    color:rgb(35, 29, 68);
+}
+
+header span:nth-child(2) {
+    float: right;
+}
+
+.introtext {
+    background-color:rgb(255, 255, 255);
+    padding: 20px;
+    color:  rgb(86, 80, 170);
+    font-size: 30px;
+}
+
+.div1 {
+    text-align: center;
+    height: 500px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 500px;
+    background-image: url(https://cdn.pixabay.com/photo/2016/03/09/09/42/buildings-1245953_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 1000px;
+    color: rgb(233, 230, 230);
+    font-size: 50px;
+}
+
+.introimg {
+    float: right;
+    width: 89%;
+    margin-right: 10px;
+}
+
+table {
+    margin-top: 0px;
+}
+
+.bar2 {
+    background-image: url(https://cdn.pixabay.com/photo/2016/03/09/09/42/buildings-1245953_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 1000px;
+    margin-left: 12px;
+    margin-right: 12px;
+    color: rgb(233, 230, 230);
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.title1 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.teampagetitle {
+    text-align: center; 
+    margin-top: 20px;
+    color: rgb(86, 80, 170);
+    font-size: 30px;
+}
+
+.teampagetable {
+    background-color: rgb(255, 255, 255);
+    color: rgb(86, 80, 170);
+    font-size: 20px;
+    padding-top: 4px;
+    margin-left: 12px;
+    margin-right: 12px;
+    border-spacing: 20px;
+}
+
+.teampagetd {
+    width: 15%;
+    box-shadow: 5px 5px 5px rgb(173, 168, 248);
+    padding: 10px;
+    border: 1px solid rgb(173, 168, 248)
+}
+
+.form {
+    background-color: rgb(86, 80, 170);
+    color: rgb(233, 230, 230);
+    font-size: 20px;
+    padding: 20px;
+}
+
+.button {
+    background-color: rgb(233, 230, 230);
+    color: rgb(86, 80, 170);
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    border: 0px;
+    margin-left: 40%;
+}

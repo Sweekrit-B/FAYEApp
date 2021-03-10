@@ -1,0 +1,48 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2016/03/09/09/42/buildings-1245953_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 1000px;
+}
+
+table {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 525px;
+    margin-top: 107px;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+input {
+    background-color: rgb(233, 230, 230);
+    border-radius: 20px;
+    padding: 10px;
+    border: 0px;
+    width: 95%;
+}
+
+button {
+    width: 100%;
+    background-image: linear-gradient(to right, #bab6eb, rgb(40, 37, 80));
+    border: 0px;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+
+.loginname {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-size: 28px;
+    color: rgb(97, 97, 97);
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.forgot, .create {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
